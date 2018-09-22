@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  conekta_public_key: 'key_KJysdbf6PotS2ut2'
 };
 
 /*
