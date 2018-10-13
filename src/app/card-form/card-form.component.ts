@@ -12,4 +12,7 @@ export class CardFormComponent implements OnInit {
   ngOnInit() {
   }
 
+  onSubmit($event){
+  }
+
 }
