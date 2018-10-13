@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  conekta_public_key: 'key_KJysdbf6PotS2ut2'
+  conekta_public_key: 'key_eYvWV7gUaMyaN4iD'
 };
 
 /*
